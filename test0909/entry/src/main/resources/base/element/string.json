@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "A Magic 8-Ball demo application."
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Magic 8-Ball"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "神奇8号球"
+    },
+    {
+      "name": "app_title",
+      "value": "神奇8号球"
+    },
+    {
+      "name": "ask_button",
+      "value": "向我提问"
+    },
+    {
+      "name": "thinking_text",
+      "value": "思考中..."
+    },
+    {
+      "name": "initial_answer",
+      "value": "点击下方按钮\n给出你的答案"
+    },
+    {
+      "name": "question_count_prefix",
+      "value": "你已经问了"
+    },
+    {
+      "name": "question_count_suffix",
+      "value": "次问题"
+    },
+    {
+      "name": "about_page_button",
+      "value": "关于"
+    },
+    {
+      "name": "about_page_title",
+      "value": "关于此应用"
+    },
+    {
+      "name": "about_page_content",
+      "value": "这是一个鸿蒙原生应用 Demo。\n\n版本: 1.0.0"
+    },
+    {
+      "name": "back_button",
+      "value": "返回"
+    },
+    {
+      "name": "vibration_reason",
+      "value": "在答案出现时提供触感反馈。"
+    }
+  ]
+}

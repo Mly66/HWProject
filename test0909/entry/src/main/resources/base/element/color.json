@@ -1,0 +1,32 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "app_bg",
+      "value": "#FF101010"
+    },
+    {
+      "name": "title_color",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "answer_bg_color",
+      "value": "#FF303030"
+    },
+    {
+      "name": "answer_text_color",
+      "value": "#FFFAFAFA"
+    },
+    {
+      "name": "button_bg_color",
+      "value": "#FF007DFF"
+    },
+    {
+      "name": "button_text_color",
+      "value": "#FFFFFFFF"
+    }
+  ]
+}
