@@ -1,0 +1,44 @@
+# ---------- 鸿蒙 HarmonyOS / ArkTS ----------
+/node_modules
+/oh_modules
+/local.properties
+/.idea
+**/build
+/.hvigor
+.cxx
+/.clangd
+/.clang-format
+/.clang-tidy
+**/.test
+/.appanalyzer
+# 注意: 不忽略 oh-package-lock.json5 — 锁文件需提交以保证依赖版本可复现
+
+# ---------- 编译产物 ----------
+*.har
+*.hap
+*.hsp
+*.app
+*.o
+*.obj
+
+# ---------- 签名 ----------
+*.p12
+*.cer
+*.csr
+*.jks
+*.keystore
+
+# ---------- 日志 ----------
+logs/
+*.log
+
+# ---------- IDE ----------
+*.iml
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# ---------- 系统 ----------
+.DS_Store
+Thumbs.db
+desktop.ini
